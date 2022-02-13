@@ -1,0 +1,27 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "O dispositivo já está configurado",
+            "no_devices_found": "Nenhum dispositivo encontrado na rede",
+            "single_instance_allowed": "Já configurado. Apenas uma única configuração possível."
+        },
+        "error": {
+            "bulb_time_out": "Não é possível conectar à lâmpada. Talvez a lâmpada esteja offline ou um IP/host errado foi inserido. Por favor, acenda a luz e tente novamente!",
+            "cannot_connect": "Falhou ao conectar",
+            "no_wiz_light": "A lâmpada não pode ser conectada via integração WiZ Light.",
+            "unknown": "Erro inesperado"
+        },
+        "step": {
+            "confirm": {
+                "description": "Deseja adicionar uma nova lâmpada?"
+            },
+            "user": {
+                "data": {
+                    "host": "Nome do host ou IP",
+                    "name": "Nome"
+                },
+                "description": "Insira um nome de host ou endereço IP e um nome para adicionar uma nova lâmpada:"
+            }
+        }
+    }
+}
